@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnaovaidya&show_icons=true&locale=en" alt="vaishnaovaidya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnaovaidya&" alt="vaishnaovaidya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VaishnaoVaidya&" alt="VaishnaoVaidya" /></p>
